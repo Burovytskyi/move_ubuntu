@@ -12,4 +12,5 @@ sudo add-apt-repository -y ppa:yannubuntu/boot-repair && sudo apt update && sudo
 After installation, we will be greeted by a window with two items to choose from, as well as the “Advanced options” item: 
 
 Recommended repair allows you to fix most of the most common boot problems.
+
 6. Reboot
